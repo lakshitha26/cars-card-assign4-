@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lakshitha26/cars-card-assign4/static/css/main.1cf8320f.css",
-    "main.js": "/lakshitha26/cars-card-assign4/static/js/main.80fc70c8.js",
-    "index.html": "/lakshitha26/cars-card-assign4/index.html",
-    "main.1cf8320f.css.map": "/lakshitha26/cars-card-assign4/static/css/main.1cf8320f.css.map",
-    "main.80fc70c8.js.map": "/lakshitha26/cars-card-assign4/static/js/main.80fc70c8.js.map"
+    "main.css": "/cars-card-assign4/static/css/main.1cf8320f.css",
+    "main.js": "/cars-card-assign4/static/js/main.80fc70c8.js",
+    "index.html": "/cars-card-assign4/index.html",
+    "main.1cf8320f.css.map": "/cars-card-assign4/static/css/main.1cf8320f.css.map",
+    "main.80fc70c8.js.map": "/cars-card-assign4/static/js/main.80fc70c8.js.map"
   },
   "entrypoints": [
     "static/css/main.1cf8320f.css",
